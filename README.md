@@ -1,1 +1,1 @@
-# OS_Sheduling_Algorithms
+# OS_Scheduling_Algorithms
